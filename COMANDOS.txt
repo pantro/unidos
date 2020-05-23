@@ -1,0 +1,5 @@
+- npm i react-bootstrap bootstrap (se agrega mas archivos)
+- npm install react-leaflet leaflet (se agrega mas archivos)
+- npm install leaflet.locatecontrol
+- npm install axios --save
+- npm run https  inicia la app en modo https para que funcione la Api de FB
